@@ -1,0 +1,1607 @@
+2025-04-02 12:45:04,529 - INFO - Found available plants: ['BAP', 'SECIIII', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 12:45:04,540 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 12:45:07,765 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 12:45:10,355 - INFO - Loading data for selected plants: ['BAP']
+2025-04-02 12:45:10,357 - INFO - Querying table: BAP for plant: BAP
+2025-04-02 12:45:10,372 - INFO - Read 465 rows from table 'BAP'
+2025-04-02 12:45:10,373 - INFO - Performing type conversions for data from 'BAP'
+2025-04-02 12:45:10,376 - WARNING - Column 'Plant' resulted in all NaNs after numeric conversion. Treating as string.
+2025-04-02 12:45:10,382 - WARNING - Column 'SPV' resulted in all NaNs after numeric conversion. Treating as string.
+2025-04-02 12:45:10,397 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 12:45:10,403 - INFO - Combined dataframe shape: (465, 20)
+2025-04-02 12:45:10,410 - INFO - No SPVs selected, showing data for all SPVs in selected plants.
+2025-04-02 12:45:10,414 - INFO - No Years selected, showing data for all years in filtered set.
+2025-04-02 12:45:10,415 - INFO - SPVs to display sections for: [nan]
+2025-04-02 12:45:10,417 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 12:45:10,421 - WARNING - No data found for SPV 'nan' within the current main filter. Skipping display section.
+2025-04-02 12:45:10,422 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 12:45:16,797 - INFO - No SPVs selected, showing data for all SPVs in selected plants.
+2025-04-02 12:45:16,803 - INFO - Filtered by Years: [2017]. Rows remaining: 45
+2025-04-02 12:45:16,804 - INFO - SPVs to display sections for: [nan]
+2025-04-02 12:45:16,805 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 12:45:16,807 - WARNING - No data found for SPV 'nan' within the current main filter. Skipping display section.
+2025-04-02 12:45:16,807 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 12:45:20,062 - INFO - Loading data for selected plants: ['BAP', 'SECIIII']
+2025-04-02 12:45:20,064 - INFO - Querying table: BAP for plant: BAP
+2025-04-02 12:45:20,075 - INFO - Read 465 rows from table 'BAP'
+2025-04-02 12:45:20,075 - INFO - Performing type conversions for data from 'BAP'
+2025-04-02 12:45:20,078 - WARNING - Column 'Plant' resulted in all NaNs after numeric conversion. Treating as string.
+2025-04-02 12:45:20,083 - WARNING - Column 'SPV' resulted in all NaNs after numeric conversion. Treating as string.
+2025-04-02 12:45:20,095 - INFO - Querying table: SECIIII for plant: SECIIII
+2025-04-02 12:45:20,100 - INFO - Read 42 rows from table 'SECIIII'
+2025-04-02 12:45:20,101 - INFO - Performing type conversions for data from 'SECIIII'
+2025-04-02 12:45:20,102 - WARNING - Column 'Plant' resulted in all NaNs after numeric conversion. Treating as string.
+2025-04-02 12:45:20,102 - WARNING - Column 'SPV' resulted in all NaNs after numeric conversion. Treating as string.
+2025-04-02 12:45:20,113 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 12:45:20,123 - INFO - Combined dataframe shape: (507, 28)
+2025-04-02 12:45:20,131 - INFO - No SPVs selected, showing data for all SPVs in selected plants.
+2025-04-02 12:45:20,134 - INFO - No Years selected, showing data for all years in filtered set.
+2025-04-02 12:45:20,135 - INFO - SPVs to display sections for: [nan]
+2025-04-02 12:45:20,136 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 12:45:20,138 - WARNING - No data found for SPV 'nan' within the current main filter. Skipping display section.
+2025-04-02 12:45:20,141 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 13:26:55,264 - INFO - No SPVs selected, showing data for all SPVs in selected plants.
+2025-04-02 13:26:55,266 - INFO - No Years selected, showing data for all years in filtered set.
+2025-04-02 13:26:55,267 - INFO - SPVs to display sections for: [nan]
+2025-04-02 13:26:55,268 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 13:26:55,270 - WARNING - No data found for SPV 'nan' within the current main filter. Skipping display section.
+2025-04-02 13:26:55,270 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 13:26:57,390 - INFO - No SPVs selected, showing data for all SPVs in selected plants.
+2025-04-02 13:26:57,394 - INFO - No Years selected, showing data for all years in filtered set.
+2025-04-02 13:26:57,395 - INFO - SPVs to display sections for: [nan]
+2025-04-02 13:26:57,397 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 13:26:57,398 - WARNING - No data found for SPV 'nan' within the current main filter. Skipping display section.
+2025-04-02 13:26:57,399 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 13:27:44,841 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:49:14,629 - INFO - Found available plants: ['BAP', 'SECIIII', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 14:49:14,642 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:49:18,555 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:49:20,161 - INFO - Loading data for selected plants: ['BAP']
+2025-04-02 14:49:20,164 - INFO - Querying table: BAP for plant: BAP
+2025-04-02 14:49:20,188 - INFO - Read 465 rows from table 'BAP'
+2025-04-02 14:49:20,189 - INFO - Performing type conversions for data from 'BAP'
+2025-04-02 14:49:20,214 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 14:49:20,217 - INFO - Combined dataframe shape: (465, 20)
+2025-04-02 14:49:20,244 - WARNING - SPV column found for ['BAP'] but contains no valid unique values.
+2025-04-02 14:49:20,247 - INFO - No Years selected, keeping data for all years in filtered set.
+2025-04-02 14:49:20,251 - INFO - SPVs to display sections for: ['nan']
+2025-04-02 14:49:20,254 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 14:51:21,516 - INFO - Found available plants: ['BAP', 'SECIIII', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 14:51:21,527 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:51:23,857 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:51:26,468 - INFO - Loading data for selected plants: ['BAP']
+2025-04-02 14:51:26,470 - INFO - Querying table: BAP for plant: BAP
+2025-04-02 14:51:26,479 - INFO - Read 465 rows from table 'BAP'
+2025-04-02 14:51:26,479 - INFO - Performing type conversions for data from 'BAP'
+2025-04-02 14:51:26,494 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 14:51:26,497 - INFO - Combined dataframe shape: (465, 20)
+2025-04-02 14:51:26,538 - WARNING - SPV column found for ['BAP'] but contains no valid unique values.
+2025-04-02 14:51:26,543 - INFO - No Years selected.
+2025-04-02 14:51:26,546 - INFO - SPVs to display sections for: ['nan']
+2025-04-02 14:51:26,550 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 14:51:26,714 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:51:33,333 - WARNING - SPV column found for ['BAP'] but contains no valid unique values.
+2025-04-02 14:51:33,353 - INFO - No Years selected.
+2025-04-02 14:51:33,362 - INFO - SPVs to display sections for: ['nan']
+2025-04-02 14:51:33,370 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 14:51:33,418 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:51:35,652 - WARNING - SPV column found for ['BAP'] but contains no valid unique values.
+2025-04-02 14:51:35,654 - INFO - No Years selected.
+2025-04-02 14:51:35,658 - INFO - SPVs to display sections for: ['nan']
+2025-04-02 14:51:35,666 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 14:51:35,713 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:51:41,170 - WARNING - SPV column found for ['BAP'] but contains no valid unique values.
+2025-04-02 14:51:41,173 - INFO - No Years selected.
+2025-04-02 14:51:41,177 - INFO - SPVs to display sections for: ['nan']
+2025-04-02 14:51:41,179 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 14:51:41,228 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:51:43,269 - WARNING - SPV column found for ['BAP'] but contains no valid unique values.
+2025-04-02 14:51:43,272 - INFO - No Years selected.
+2025-04-02 14:51:43,275 - INFO - SPVs to display sections for: ['nan']
+2025-04-02 14:51:43,279 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 14:51:43,329 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:51:44,624 - WARNING - SPV column found for ['BAP'] but contains no valid unique values.
+2025-04-02 14:51:44,626 - INFO - No Years selected.
+2025-04-02 14:51:44,628 - INFO - SPVs to display sections for: ['nan']
+2025-04-02 14:51:44,630 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 14:51:44,667 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:59:11,727 - INFO - Found available plants from DB: ['BAP', 'SECIIII', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 14:59:11,758 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:59:14,919 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:59:16,885 - INFO - Attempting to load data for selected plants: ['BAP']
+2025-04-02 14:59:16,886 - INFO - Querying table: 'BAP' for plant: 'BAP'
+2025-04-02 14:59:16,905 - INFO - Read 465 rows from table 'BAP'
+2025-04-02 14:59:16,907 - INFO - Performing type conversions for data from 'BAP'
+2025-04-02 14:59:16,920 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 14:59:16,924 - INFO - Combined dataframe final shape: (465, 20)
+2025-04-02 14:59:16,930 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 14:59:16,931 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 14:59:16,947 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 14:59:16,949 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 14:59:16,951 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 14:59:17,058 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:59:36,473 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 14:59:36,477 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 14:59:36,480 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 14:59:36,482 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 14:59:36,485 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 14:59:36,532 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:59:37,817 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 14:59:37,820 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 14:59:37,824 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 14:59:37,827 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 14:59:37,831 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 14:59:37,881 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:59:55,042 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 14:59:55,049 - INFO - Filtered by selected SPVs: ['nan']. Rows remaining: 465
+2025-04-02 14:59:55,052 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 14:59:55,055 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 14:59:55,061 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 14:59:55,096 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 14:59:58,814 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 14:59:58,819 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 14:59:58,824 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 14:59:58,828 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 14:59:58,831 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 14:59:58,884 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:20,082 - INFO - Attempting to load data for selected plants: ['BAP', 'SECIIII']
+2025-04-02 15:00:20,082 - INFO - Querying table: 'BAP' for plant: 'BAP'
+2025-04-02 15:00:20,086 - INFO - Read 465 rows from table 'BAP'
+2025-04-02 15:00:20,087 - INFO - Performing type conversions for data from 'BAP'
+2025-04-02 15:00:20,090 - INFO - Querying table: 'SECIIII' for plant: 'SECIIII'
+2025-04-02 15:00:20,094 - INFO - Read 42 rows from table 'SECIIII'
+2025-04-02 15:00:20,094 - INFO - Performing type conversions for data from 'SECIIII'
+2025-04-02 15:00:20,097 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 15:00:20,114 - INFO - Combined dataframe final shape: (507, 28)
+2025-04-02 15:00:20,120 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:00:20,121 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 15:00:20,123 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 15:00:20,124 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 15:00:20,126 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:00:20,156 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:21,224 - INFO - Attempting to load data for selected plants: ['SECIIII']
+2025-04-02 15:00:21,226 - INFO - Querying table: 'SECIIII' for plant: 'SECIIII'
+2025-04-02 15:00:21,228 - INFO - Read 42 rows from table 'SECIIII'
+2025-04-02 15:00:21,228 - INFO - Performing type conversions for data from 'SECIIII'
+2025-04-02 15:00:21,231 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 15:00:21,232 - INFO - Combined dataframe final shape: (42, 21)
+2025-04-02 15:00:21,234 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:00:21,236 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 15:00:21,237 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 15:00:21,239 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 15:00:21,240 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:00:21,261 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:26,184 - INFO - Attempting to load data for selected plants: ['SECIIII', 'BAP']
+2025-04-02 15:00:26,185 - INFO - Querying table: 'SECIIII' for plant: 'SECIIII'
+2025-04-02 15:00:26,187 - INFO - Read 42 rows from table 'SECIIII'
+2025-04-02 15:00:26,187 - INFO - Performing type conversions for data from 'SECIIII'
+2025-04-02 15:00:26,192 - INFO - Querying table: 'BAP' for plant: 'BAP'
+2025-04-02 15:00:26,199 - INFO - Read 465 rows from table 'BAP'
+2025-04-02 15:00:26,199 - INFO - Performing type conversions for data from 'BAP'
+2025-04-02 15:00:26,204 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 15:00:26,207 - INFO - Combined dataframe final shape: (507, 28)
+2025-04-02 15:00:26,211 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:00:26,212 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 15:00:26,214 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 15:00:26,216 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 15:00:26,219 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:00:26,243 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:26,811 - INFO - Attempting to load data for selected plants: ['SECIIII', 'BAP', 'SEMLI']
+2025-04-02 15:00:26,813 - INFO - Querying table: 'SECIIII' for plant: 'SECIIII'
+2025-04-02 15:00:26,816 - INFO - Read 42 rows from table 'SECIIII'
+2025-04-02 15:00:26,817 - INFO - Performing type conversions for data from 'SECIIII'
+2025-04-02 15:00:26,822 - INFO - Querying table: 'BAP' for plant: 'BAP'
+2025-04-02 15:00:26,826 - INFO - Read 465 rows from table 'BAP'
+2025-04-02 15:00:26,826 - INFO - Performing type conversions for data from 'BAP'
+2025-04-02 15:00:26,830 - INFO - Querying table: 'SEMLI' for plant: 'SEMLI'
+2025-04-02 15:00:26,840 - INFO - Read 88 rows from table 'SEMLI'
+2025-04-02 15:00:26,840 - INFO - Performing type conversions for data from 'SEMLI'
+2025-04-02 15:00:26,844 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 15:00:26,849 - INFO - Combined dataframe final shape: (595, 44)
+2025-04-02 15:00:26,855 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:00:26,856 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 15:00:26,858 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 15:00:26,858 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 15:00:26,861 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:00:26,882 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:27,612 - INFO - Attempting to load data for selected plants: ['SECIIII', 'BAP', 'SEMLI', 'UTT1']
+2025-04-02 15:00:27,613 - INFO - Querying table: 'SECIIII' for plant: 'SECIIII'
+2025-04-02 15:00:27,615 - INFO - Read 42 rows from table 'SECIIII'
+2025-04-02 15:00:27,615 - INFO - Performing type conversions for data from 'SECIIII'
+2025-04-02 15:00:27,620 - INFO - Querying table: 'BAP' for plant: 'BAP'
+2025-04-02 15:00:27,628 - INFO - Read 465 rows from table 'BAP'
+2025-04-02 15:00:27,628 - INFO - Performing type conversions for data from 'BAP'
+2025-04-02 15:00:27,634 - INFO - Querying table: 'SEMLI' for plant: 'SEMLI'
+2025-04-02 15:00:27,638 - INFO - Read 88 rows from table 'SEMLI'
+2025-04-02 15:00:27,638 - INFO - Performing type conversions for data from 'SEMLI'
+2025-04-02 15:00:27,645 - INFO - Querying table: 'UTT1' for plant: 'UTT1'
+2025-04-02 15:00:27,660 - INFO - Read 288 rows from table 'UTT1'
+2025-04-02 15:00:27,661 - INFO - Performing type conversions for data from 'UTT1'
+2025-04-02 15:00:27,666 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 15:00:27,676 - INFO - Combined dataframe final shape: (883, 49)
+2025-04-02 15:00:27,682 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:00:27,683 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 15:00:27,685 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 15:00:27,687 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 15:00:27,689 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:00:27,715 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:28,065 - INFO - Attempting to load data for selected plants: ['SECIIII', 'BAP', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 15:00:28,067 - INFO - Querying table: 'SECIIII' for plant: 'SECIIII'
+2025-04-02 15:00:28,071 - INFO - Read 42 rows from table 'SECIIII'
+2025-04-02 15:00:28,071 - INFO - Performing type conversions for data from 'SECIIII'
+2025-04-02 15:00:28,075 - INFO - Querying table: 'BAP' for plant: 'BAP'
+2025-04-02 15:00:28,080 - INFO - Read 465 rows from table 'BAP'
+2025-04-02 15:00:28,080 - INFO - Performing type conversions for data from 'BAP'
+2025-04-02 15:00:28,088 - INFO - Querying table: 'SEMLI' for plant: 'SEMLI'
+2025-04-02 15:00:28,090 - INFO - Read 88 rows from table 'SEMLI'
+2025-04-02 15:00:28,091 - INFO - Performing type conversions for data from 'SEMLI'
+2025-04-02 15:00:28,093 - INFO - Querying table: 'UTT1' for plant: 'UTT1'
+2025-04-02 15:00:28,097 - INFO - Read 288 rows from table 'UTT1'
+2025-04-02 15:00:28,097 - INFO - Performing type conversions for data from 'UTT1'
+2025-04-02 15:00:28,102 - INFO - Querying table: 'UTT2' for plant: 'UTT2'
+2025-04-02 15:00:28,120 - INFO - Read 383 rows from table 'UTT2'
+2025-04-02 15:00:28,121 - INFO - Performing type conversions for data from 'UTT2'
+2025-04-02 15:00:28,125 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 15:00:28,136 - INFO - Combined dataframe final shape: (1266, 49)
+2025-04-02 15:00:28,142 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:00:28,143 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 15:00:28,145 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 15:00:28,146 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 15:00:28,148 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:00:28,177 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:35,930 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:00:35,931 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 15:00:35,934 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 15:00:35,938 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 15:00:35,941 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:00:35,968 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:41,896 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:00:41,897 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 15:00:41,899 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 15:00:41,900 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 15:00:41,904 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:00:41,927 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:43,575 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:00:43,576 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 15:00:43,579 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 15:00:43,581 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 15:00:43,586 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:00:43,614 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:44,663 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:00:44,665 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 15:00:44,666 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 15:00:44,668 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 15:00:44,670 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:00:44,697 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:52,693 - INFO - Attempting to load data for selected plants: ['SECIIII', 'SEMLI']
+2025-04-02 15:00:52,693 - INFO - Querying table: 'SECIIII' for plant: 'SECIIII'
+2025-04-02 15:00:52,698 - INFO - Read 42 rows from table 'SECIIII'
+2025-04-02 15:00:52,699 - INFO - Performing type conversions for data from 'SECIIII'
+2025-04-02 15:00:52,705 - INFO - Querying table: 'SEMLI' for plant: 'SEMLI'
+2025-04-02 15:00:52,708 - INFO - Read 88 rows from table 'SEMLI'
+2025-04-02 15:00:52,708 - INFO - Performing type conversions for data from 'SEMLI'
+2025-04-02 15:00:52,711 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 15:00:52,720 - INFO - Combined dataframe final shape: (130, 37)
+2025-04-02 15:00:52,732 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:00:52,733 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 15:00:52,735 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 15:00:52,737 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 15:00:52,739 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:00:52,765 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:53,382 - INFO - Attempting to load data for selected plants: ['SEMLI']
+2025-04-02 15:00:53,382 - INFO - Querying table: 'SEMLI' for plant: 'SEMLI'
+2025-04-02 15:00:53,388 - INFO - Read 88 rows from table 'SEMLI'
+2025-04-02 15:00:53,388 - INFO - Performing type conversions for data from 'SEMLI'
+2025-04-02 15:00:53,395 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 15:00:53,398 - INFO - Combined dataframe final shape: (88, 21)
+2025-04-02 15:00:53,401 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:00:53,402 - INFO - No SPVs selected by user, keeping all SPVs for selected plants.
+2025-04-02 15:00:53,404 - INFO - No Years selected by user, keeping data for all years in current filter set.
+2025-04-02 15:00:53,405 - INFO - Will attempt to display sections for SPVs: ['nan']
+2025-04-02 15:00:53,409 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:00:53,434 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:00:54,606 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:27:01,767 - INFO - Found available plants from DB: ['BAP', 'SECIIII', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 15:27:01,773 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:27:04,516 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:27:06,275 - INFO - Attempting to load data for selected plants: ['BAP']
+2025-04-02 15:27:06,276 - INFO - Querying table: 'BAP' for plant: 'BAP'
+2025-04-02 15:27:06,296 - INFO - Read 465 rows from table 'BAP'
+2025-04-02 15:27:06,327 - INFO - Performing type conversions for data from 'BAP'
+2025-04-02 15:27:06,351 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 15:27:06,367 - INFO - Combined dataframe final shape: (465, 20)
+2025-04-02 15:27:06,378 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:27:06,381 - INFO - No SPVs selected by user.
+2025-04-02 15:27:06,386 - INFO - No Years selected by user.
+2025-04-02 15:27:06,391 - INFO - Will display sections for SPVs: ['nan']
+2025-04-02 15:27:06,394 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:27:06,437 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:28:00,924 - INFO - Found available plants from DB: ['BAP', 'SECIIII', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 15:28:00,934 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:28:08,329 - INFO - Attempting to load data for selected plants: ['BAP']
+2025-04-02 15:28:08,331 - INFO - Querying table: 'BAP' for plant: 'BAP'
+2025-04-02 15:28:08,342 - INFO - Read 465 rows from table 'BAP'
+2025-04-02 15:28:08,351 - INFO - Performing type conversions for data from 'BAP'
+2025-04-02 15:28:08,360 - INFO - Concatenating dataframes from selected plants.
+2025-04-02 15:28:08,367 - INFO - Combined dataframe final shape: (465, 20)
+2025-04-02 15:28:08,372 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:28:08,373 - INFO - No SPVs selected by user.
+2025-04-02 15:28:08,376 - INFO - No Years selected by user.
+2025-04-02 15:28:08,379 - INFO - Will display sections for SPVs: ['nan']
+2025-04-02 15:28:08,384 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:28:08,634 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:28:11,339 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:28:15,950 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:28:15,952 - INFO - No SPVs selected by user.
+2025-04-02 15:28:15,955 - INFO - No Years selected by user.
+2025-04-02 15:28:15,957 - INFO - Will display sections for SPVs: ['nan']
+2025-04-02 15:28:15,960 - INFO - --- Generating display section for SPV: nan ---
+2025-04-02 15:28:15,985 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:36:00,293 - INFO - Found plants: ['BAP', 'SECIIII', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 15:36:00,304 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:36:03,264 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:36:05,271 - INFO - Loading data for: ['BAP']
+2025-04-02 15:36:05,272 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 15:36:05,293 - INFO - Read 465 rows from 'BAP'
+2025-04-02 15:36:05,294 - INFO - Converting types for 'BAP'
+2025-04-02 15:36:05,309 - INFO - Concatenating loaded dataframes.
+2025-04-02 15:36:05,310 - INFO - Applying categorical type to 'SPV' column.
+2025-04-02 15:36:05,375 - INFO - Combined df shape: (465, 20)
+2025-04-02 15:36:05,408 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:36:05,415 - INFO - No SPVs selected.
+2025-04-02 15:36:05,423 - INFO - No Years selected.
+2025-04-02 15:36:05,425 - INFO - Displaying sections for SPVs: ['nan']
+2025-04-02 15:36:05,429 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 15:36:05,486 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 15:36:16,304 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 15:36:16,309 - INFO - No SPVs selected.
+2025-04-02 15:36:16,319 - INFO - Filtered by Years: [2017]. Rows: 45
+2025-04-02 15:36:16,321 - INFO - Displaying sections for SPVs: ['nan']
+2025-04-02 15:36:16,324 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 15:36:16,365 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:08:13,812 - INFO - Loading data for: ['BAP']
+2025-04-02 18:08:13,818 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 18:08:13,863 - INFO - Read 465 rows from 'BAP'
+2025-04-02 18:08:13,864 - INFO - Converting types for 'BAP'
+2025-04-02 18:08:13,942 - INFO - Concatenating loaded dataframes.
+2025-04-02 18:08:13,951 - INFO - Applying categorical type to 'SPV' column.
+2025-04-02 18:08:13,969 - INFO - Combined df shape: (465, 20)
+2025-04-02 18:08:14,011 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 18:08:14,013 - INFO - No SPVs selected.
+2025-04-02 18:08:14,029 - INFO - Filtered by Years: [2017]. Rows: 45
+2025-04-02 18:08:14,032 - INFO - Displaying sections for SPVs: ['nan']
+2025-04-02 18:08:14,038 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 18:08:14,131 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:08:18,722 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 18:08:18,726 - INFO - No SPVs selected.
+2025-04-02 18:08:18,740 - INFO - Filtered by Years: [2017]. Rows: 45
+2025-04-02 18:08:18,749 - INFO - Displaying sections for SPVs: ['nan']
+2025-04-02 18:08:18,753 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 18:08:18,802 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:08:21,656 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 18:08:21,658 - INFO - No SPVs selected.
+2025-04-02 18:08:21,669 - INFO - Filtered by Years: [2017]. Rows: 45
+2025-04-02 18:08:21,676 - INFO - Displaying sections for SPVs: ['nan']
+2025-04-02 18:08:21,682 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 18:08:21,742 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:08:27,016 - INFO - Loading data for: ['BAP', 'SECIIII']
+2025-04-02 18:08:27,018 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 18:08:27,034 - INFO - Read 465 rows from 'BAP'
+2025-04-02 18:08:27,034 - INFO - Converting types for 'BAP'
+2025-04-02 18:08:27,051 - INFO - Querying: 'SECIIII' for 'SECIIII'
+2025-04-02 18:08:27,056 - INFO - Read 42 rows from 'SECIIII'
+2025-04-02 18:08:27,057 - INFO - Converting types for 'SECIIII'
+2025-04-02 18:08:27,070 - INFO - Concatenating loaded dataframes.
+2025-04-02 18:08:27,091 - INFO - Applying categorical type to 'SPV' column.
+2025-04-02 18:08:27,116 - INFO - Combined df shape: (507, 28)
+2025-04-02 18:08:27,242 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 18:08:27,246 - INFO - No SPVs selected.
+2025-04-02 18:08:27,271 - INFO - No Years selected.
+2025-04-02 18:08:27,273 - INFO - Displaying sections for SPVs: ['nan']
+2025-04-02 18:08:27,288 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 18:08:27,339 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:08:43,551 - INFO - Populating SPV filter with options: ['nan']
+2025-04-02 18:08:43,565 - INFO - No SPVs selected.
+2025-04-02 18:08:43,583 - INFO - No Years selected.
+2025-04-02 18:08:43,587 - INFO - Displaying sections for SPVs: ['nan']
+2025-04-02 18:08:43,592 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 18:08:43,655 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:14:16,627 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:14:20,334 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:20:40,557 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 18:20:40,562 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:20:43,512 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:20:45,694 - INFO - Loading data for: ['SECI-III']
+2025-04-02 18:20:45,695 - INFO - Querying: 'SECIIII' for 'SECI-III'
+2025-04-02 18:20:45,698 - ERROR - Error reading table 'SECIIII': Execution failed on sql 'SELECT * FROM "SECIIII"': no such table: SECIIII
+Traceback (most recent call last):
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\.venv\Lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+    ~~~~~~~~~~~^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: SECIIII
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\database.py", line 104, in load_data_from_db
+    df_plant = pd.read_sql_query(query, conn)
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\.venv\Lib\site-packages\pandas\io\sql.py", line 526, in read_sql_query
+    return pandas_sql.read_query(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        sql,
+        ^^^^
+    ...<6 lines>...
+        dtype_backend=dtype_backend,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\.venv\Lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\.venv\Lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql 'SELECT * FROM "SECIIII"': no such table: SECIIII
+2025-04-02 18:20:45,746 - ERROR - Errors occurred reading one or more plant tables. Returning None.
+2025-04-02 18:20:55,348 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:20:56,891 - INFO - Loading data for: ['BAP']
+2025-04-02 18:20:56,893 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 18:20:56,907 - INFO - Read 465 rows from 'BAP'
+2025-04-02 18:20:56,908 - INFO - Converting types for 'BAP'
+2025-04-02 18:20:56,927 - INFO - Concatenating loaded dataframes.
+2025-04-02 18:20:56,929 - INFO - Applying categorical type to 'SPV' column.
+2025-04-02 18:20:56,932 - INFO - Combined df shape: (465, 20)
+2025-04-02 18:20:56,938 - INFO - Displaying sections for SPVs: ['nan']
+2025-04-02 18:20:56,941 - INFO - --- Generating display for SPV: nan ---
+2025-04-02 18:20:56,977 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:23:40,783 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 18:23:40,791 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:23:43,655 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:23:47,702 - INFO - Loading data for: ['BAP']
+2025-04-02 18:23:47,706 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 18:23:47,735 - INFO - Read 465 rows from 'BAP'
+2025-04-02 18:23:47,736 - INFO - Concatenating loaded dataframes.
+2025-04-02 18:23:47,741 - INFO - Combined df shape: (465, 19)
+2025-04-02 18:23:47,750 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 18:23:47,755 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:23:47,758 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:23:47,762 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 18:23:47,765 - INFO - No columns selected for table Medha.
+2025-04-02 18:23:47,768 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 18:23:47,771 - INFO - No columns selected for table Mumbai.
+2025-04-02 18:23:47,774 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 18:23:47,778 - INFO - No columns selected for table Rajdhani.
+2025-04-02 18:23:47,781 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 18:23:47,784 - INFO - No columns selected for table Ranji.
+2025-04-02 18:23:47,785 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:23:53,694 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:23:53,697 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:23:53,701 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:23:53,703 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:23:56,272 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:23:56,275 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:23:56,304 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:24:00,536 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:24:00,539 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:24:00,549 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:24:04,208 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:24:04,210 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:24:04,217 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:24:04,974 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:24:04,979 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:24:04,985 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:24:04,988 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:24:12,417 - INFO - Loading data for: ['BAP', 'SECI-III']
+2025-04-02 18:24:12,419 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 18:24:12,435 - INFO - Read 465 rows from 'BAP'
+2025-04-02 18:24:12,435 - INFO - Querying: 'SECIIII' for 'SECI-III'
+2025-04-02 18:24:12,436 - ERROR - Error reading table 'SECIIII': Execution failed on sql 'SELECT * FROM "SECIIII"': no such table: SECIIII
+Traceback (most recent call last):
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\.venv\Lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+    ~~~~~~~~~~~^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: SECIIII
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\database.py", line 103, in load_data_from_db
+    df_plant = pd.read_sql_query(query, conn)
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\.venv\Lib\site-packages\pandas\io\sql.py", line 526, in read_sql_query
+    return pandas_sql.read_query(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        sql,
+        ^^^^
+    ...<6 lines>...
+        dtype_backend=dtype_backend,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\.venv\Lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\.venv\Lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql 'SELECT * FROM "SECIIII"': no such table: SECIIII
+2025-04-02 18:24:12,441 - INFO - Concatenating loaded dataframes.
+2025-04-02 18:24:12,443 - INFO - Combined df shape: (465, 19)
+2025-04-02 18:24:12,450 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:24:12,454 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:24:12,457 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:24:12,459 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:24:13,725 - INFO - Loading data for: ['SECI-III']
+2025-04-02 18:24:13,728 - INFO - Querying: 'SECIIII' for 'SECI-III'
+2025-04-02 18:24:13,733 - ERROR - Error reading table 'SECIIII': Execution failed on sql 'SELECT * FROM "SECIIII"': no such table: SECIIII
+Traceback (most recent call last):
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\.venv\Lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+    ~~~~~~~~~~~^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: SECIIII
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\database.py", line 103, in load_data_from_db
+    df_plant = pd.read_sql_query(query, conn)
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\.venv\Lib\site-packages\pandas\io\sql.py", line 526, in read_sql_query
+    return pandas_sql.read_query(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        sql,
+        ^^^^
+    ...<6 lines>...
+        dtype_backend=dtype_backend,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\.venv\Lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\MAHADEVAN RAVICHANDR\Documents\Dashboard\.venv\Lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql 'SELECT * FROM "SECIIII"': no such table: SECIIII
+2025-04-02 18:24:13,738 - ERROR - Errors occurred reading one or more plant tables. Returning None.
+2025-04-02 18:25:21,301 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:28:31,962 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:28:34,719 - INFO - Loading data for: ['SECI-III']
+2025-04-02 18:28:34,720 - INFO - Querying: 'SECI-III' for 'SECI-III'
+2025-04-02 18:28:34,731 - INFO - Read 42 rows from 'SECI-III'
+2025-04-02 18:28:34,732 - INFO - Concatenating loaded dataframes.
+2025-04-02 18:28:34,734 - INFO - Combined df shape: (42, 20)
+2025-04-02 18:28:34,741 - INFO - Displaying sections for SPVs: ['ERCPL']
+2025-04-02 18:28:34,743 - INFO - --- Generating display for SPV: ERCPL ---
+2025-04-02 18:28:34,749 - INFO - No columns selected for table ERCPL.
+2025-04-02 18:28:34,751 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:28:38,778 - INFO - Displaying sections for SPVs: ['ERCPL']
+2025-04-02 18:28:38,782 - INFO - --- Generating display for SPV: ERCPL ---
+2025-04-02 18:28:38,793 - INFO - No columns selected for table ERCPL.
+2025-04-02 18:28:38,798 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:34:12,858 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:34:15,792 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:34:24,460 - INFO - Loading data for: ['BAP']
+2025-04-02 18:34:24,464 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 18:34:24,480 - INFO - Read 465 rows from 'BAP'
+2025-04-02 18:34:24,481 - INFO - Concatenating loaded dataframes.
+2025-04-02 18:34:24,483 - INFO - Combined df shape: (465, 19)
+2025-04-02 18:34:24,489 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 18:34:24,493 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:34:24,516 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:34:24,519 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 18:34:24,541 - INFO - No columns selected for table Medha.
+2025-04-02 18:34:24,544 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 18:34:24,573 - INFO - No columns selected for table Mumbai.
+2025-04-02 18:34:24,576 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 18:34:24,606 - INFO - No columns selected for table Rajdhani.
+2025-04-02 18:34:24,609 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 18:34:24,638 - INFO - No columns selected for table Ranji.
+2025-04-02 18:34:24,640 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:34:28,653 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:34:28,656 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:34:28,700 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:34:28,702 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:37:08,063 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:37:08,066 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:37:08,114 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:37:11,230 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:37:11,233 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:37:11,256 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:37:14,802 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:37:14,805 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:37:14,847 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:37:20,887 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:37:20,889 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:37:20,913 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:37:20,916 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:40:39,266 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:40:42,603 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:40:45,311 - INFO - Loading data for: ['BAP']
+2025-04-02 18:40:45,313 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 18:40:45,325 - INFO - Read 465 rows from 'BAP'
+2025-04-02 18:40:45,328 - INFO - Concatenating loaded dataframes.
+2025-04-02 18:40:45,331 - INFO - Combined df shape: (465, 19)
+2025-04-02 18:40:45,337 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 18:40:45,340 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:40:45,361 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:40:45,364 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 18:40:45,385 - INFO - No columns selected for table Medha.
+2025-04-02 18:40:45,388 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 18:40:45,415 - INFO - No columns selected for table Mumbai.
+2025-04-02 18:40:45,420 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 18:40:45,452 - INFO - No columns selected for table Rajdhani.
+2025-04-02 18:40:45,457 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 18:40:45,481 - INFO - No columns selected for table Ranji.
+2025-04-02 18:40:45,482 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:40:48,644 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:40:48,647 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:40:48,672 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:40:48,674 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:40:52,408 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:40:52,412 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:40:52,438 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:40:52,440 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:40:54,828 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:40:54,831 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:40:54,862 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:40:55,818 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:40:55,821 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:40:55,847 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:40:56,899 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:40:56,902 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:40:56,926 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:40:57,535 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:40:57,537 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:40:57,568 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:40:58,630 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:40:58,631 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:40:58,654 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:42:47,594 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:43:01,314 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 18:43:01,324 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:43:01,360 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:43:01,364 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 18:43:01,383 - INFO - No columns selected for table Medha.
+2025-04-02 18:43:01,387 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 18:43:01,411 - INFO - No columns selected for table Mumbai.
+2025-04-02 18:43:01,414 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 18:43:01,440 - INFO - No columns selected for table Rajdhani.
+2025-04-02 18:43:01,443 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 18:43:01,466 - INFO - No columns selected for table Ranji.
+2025-04-02 18:43:01,468 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:43:06,622 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:43:06,626 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:43:06,657 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:43:06,659 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:43:08,499 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha']
+2025-04-02 18:43:08,504 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:43:08,539 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:43:08,544 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 18:43:08,568 - INFO - No columns selected for table Medha.
+2025-04-02 18:43:08,569 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:43:14,046 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai']
+2025-04-02 18:43:14,053 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:43:14,079 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:43:14,082 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 18:43:14,101 - INFO - No columns selected for table Medha.
+2025-04-02 18:43:14,104 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 18:43:14,122 - INFO - No columns selected for table Mumbai.
+2025-04-02 18:43:14,123 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:43:15,079 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani']
+2025-04-02 18:43:15,083 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:43:15,107 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:43:15,112 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 18:43:15,143 - INFO - No columns selected for table Medha.
+2025-04-02 18:43:15,157 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 18:43:15,185 - INFO - No columns selected for table Mumbai.
+2025-04-02 18:43:15,188 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 18:43:15,216 - INFO - No columns selected for table Rajdhani.
+2025-04-02 18:43:15,218 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:43:15,714 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 18:43:15,717 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:43:15,743 - INFO - No columns selected for table Gurgaon.
+2025-04-02 18:43:15,747 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 18:43:15,772 - INFO - No columns selected for table Medha.
+2025-04-02 18:43:15,776 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 18:43:15,806 - INFO - No columns selected for table Mumbai.
+2025-04-02 18:43:15,812 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 18:43:15,847 - INFO - No columns selected for table Rajdhani.
+2025-04-02 18:43:15,852 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 18:43:15,879 - INFO - No columns selected for table Ranji.
+2025-04-02 18:43:15,882 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:44:02,289 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:52:02,813 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:52:05,765 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:52:17,881 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:52:27,438 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 18:52:27,444 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:52:27,497 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 18:52:27,533 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 18:52:27,587 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 18:52:27,631 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 18:52:27,685 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:52:55,471 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 18:52:55,474 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:53:10,724 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 18:53:10,729 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:53:22,849 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 18:53:22,851 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:53:24,914 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 18:53:24,918 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 18:53:24,961 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:53:32,890 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 18:53:32,892 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 18:53:33,814 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 18:53:33,816 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 18:59:35,215 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:59:37,491 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 18:59:37,492 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:59:37,539 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 18:59:37,570 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 18:59:37,603 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 18:59:37,633 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 18:59:37,663 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:59:40,608 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:59:40,612 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:59:40,654 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:59:43,897 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:59:43,900 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:59:43,957 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:59:49,800 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:59:49,803 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:59:49,849 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 18:59:51,798 - INFO - Displaying sections for SPVs: ['Gurgaon']
+2025-04-02 18:59:51,802 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 18:59:51,860 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:01:09,534 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Ranji']
+2025-04-02 19:01:09,538 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:01:09,565 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:01:09,587 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:02:25,539 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:02:29,313 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:02:29,317 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:02:29,364 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:02:29,420 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:02:29,466 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:02:29,520 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:02:29,557 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:02:41,628 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:02:41,631 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:02:41,671 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:02:44,150 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:02:44,153 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:02:44,189 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:02:52,109 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:02:52,112 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:02:52,161 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:02:55,797 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:02:55,803 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:02:55,825 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:07:15,427 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:07:17,747 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:07:17,752 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:07:17,804 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:07:17,850 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:07:17,898 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:07:17,942 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:07:17,988 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:07:20,959 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:07:20,962 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:07:20,996 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:07:23,190 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:07:23,193 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:07:23,235 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:07:32,036 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:07:32,040 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:07:32,084 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:07:40,352 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:07:40,355 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:07:40,394 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:07:42,316 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:07:42,319 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:07:42,365 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:09:42,217 - INFO - Loading data for: ['BAP', 'SECI-III']
+2025-04-02 19:09:42,220 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 19:09:42,232 - INFO - Read 465 rows from 'BAP'
+2025-04-02 19:09:42,235 - INFO - Querying: 'SECI-III' for 'SECI-III'
+2025-04-02 19:09:42,241 - INFO - Read 42 rows from 'SECI-III'
+2025-04-02 19:09:42,243 - INFO - Concatenating loaded dataframes.
+2025-04-02 19:09:42,250 - INFO - Combined df shape: (507, 27)
+2025-04-02 19:09:42,259 - INFO - Displaying sections for SPVs: ['ERCPL', 'Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:09:42,264 - INFO - --- Generating display for SPV: ERCPL ---
+2025-04-02 19:09:42,341 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:09:42,384 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:09:42,415 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:09:42,455 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:09:42,504 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:09:42,546 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:09:49,512 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:10:21,697 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:10:21,701 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:10:21,739 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:10:21,771 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:10:21,806 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:10:21,841 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:10:21,876 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:10:24,486 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:10:24,490 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:10:24,534 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:12:46,241 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:12:48,775 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:12:48,780 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:12:48,825 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:12:48,871 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:12:48,921 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:12:48,992 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:12:49,032 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:12:56,313 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:12:56,316 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:12:56,354 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:13:02,760 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:13:02,765 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:13:02,805 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:15:41,362 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:15:49,518 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:15:49,523 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:15:49,566 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:15:49,617 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:15:49,677 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:15:49,719 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:15:49,759 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:15:53,059 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:15:53,066 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:15:53,111 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:18:29,096 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:18:34,418 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:18:34,429 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:18:34,473 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:18:34,519 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:18:34,570 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:18:34,617 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:18:34,656 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:18:59,611 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 19:18:59,633 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:19:36,118 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:19:45,528 - INFO - Loading data for: ['BAP']
+2025-04-02 19:19:45,532 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 19:19:45,563 - INFO - Read 465 rows from 'BAP'
+2025-04-02 19:19:45,570 - INFO - Concatenating loaded dataframes.
+2025-04-02 19:19:45,575 - INFO - Combined df shape: (465, 19)
+2025-04-02 19:19:45,585 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:19:45,588 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:19:45,842 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:19:45,898 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:19:45,947 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:19:46,008 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:19:46,064 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:19:48,927 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:19:48,941 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:19:49,002 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:19:51,619 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:19:51,627 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:19:51,729 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:19:54,922 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:19:54,939 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:19:54,995 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:19:56,755 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:19:56,765 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:19:56,818 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:24:43,511 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:24:47,822 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:24:50,747 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:24:50,760 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:24:50,818 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:24:50,928 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:24:50,991 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:24:51,034 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:24:51,068 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:24:53,956 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:24:53,958 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:24:54,005 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:24:56,528 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:24:56,537 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:24:56,589 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:27:48,344 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:28:04,764 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:32:37,656 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:32:37,662 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:32:37,738 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:32:37,798 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:32:37,842 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:32:37,894 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:32:37,933 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:32:41,487 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:32:41,492 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:32:41,550 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:32:45,534 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:32:45,538 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:32:45,626 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:32:54,796 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:32:54,800 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:32:54,837 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:32:57,232 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:32:57,237 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:32:57,285 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:33:55,406 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:34:01,182 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:34:01,186 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:34:01,231 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:34:01,283 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:34:01,324 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:34:01,380 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:34:01,486 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:34:06,978 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:34:06,983 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:34:07,033 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:34:07,076 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:34:07,120 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:34:07,167 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:34:07,212 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:34:10,214 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:34:10,301 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:34:10,333 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:39:13,171 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:41:33,764 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:43:56,428 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:44:02,439 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:46:09,775 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:47:55,554 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:51:08,582 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:54:16,624 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:54:19,163 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 19:54:19,168 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 19:54:19,197 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 19:54:19,229 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 19:54:19,274 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 19:54:19,309 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:54:19,343 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:54:26,704 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:54:26,706 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:54:26,734 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:54:30,312 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:54:30,314 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:54:30,340 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:54:35,521 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:54:35,524 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:54:35,549 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:54:42,152 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:54:42,154 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:54:42,183 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:54:43,955 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:54:43,957 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:54:43,982 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 19:54:45,930 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-02 19:54:45,933 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 19:54:45,964 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 20:37:27,427 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 20:37:27,453 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 20:37:38,197 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 20:37:50,592 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 20:37:53,386 - INFO - Loading data for: ['BAP']
+2025-04-02 20:37:53,389 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 20:37:53,405 - INFO - Read 465 rows from 'BAP'
+2025-04-02 20:37:53,411 - INFO - Concatenating loaded dataframes.
+2025-04-02 20:37:53,414 - INFO - Combined df shape: (465, 19)
+2025-04-02 20:37:53,418 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:09:50,433 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:09:50,900 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:14:18,380 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:14:18,394 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:14:28,546 - INFO - Loading data for: ['BAP']
+2025-04-02 21:14:28,548 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:14:28,561 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:14:28,568 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:14:28,573 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:14:28,596 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 21:14:28,603 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 21:14:29,258 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 21:14:29,381 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 21:14:29,509 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 21:14:29,571 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 21:14:29,660 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:15:30,134 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:15:30,142 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:23:29,204 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:23:29,228 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:38:19,713 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:38:19,717 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:38:24,035 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:38:24,037 - INFO - Loading data for: ['BAP']
+2025-04-02 21:38:24,038 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:38:24,058 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:38:24,065 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:38:24,067 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:38:24,124 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:38:27,766 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:38:27,768 - INFO - Loading data for: ['BAP']
+2025-04-02 21:38:27,772 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:38:27,781 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:38:27,784 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:38:27,788 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:38:27,808 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:38:28,752 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:38:28,758 - INFO - Loading data for: ['BAP']
+2025-04-02 21:38:28,760 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:38:28,771 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:38:28,774 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:38:28,778 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:38:28,803 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:38:31,363 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:38:31,365 - INFO - Loading data for: ['BAP']
+2025-04-02 21:38:31,367 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:38:31,382 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:38:31,387 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:38:31,390 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:38:33,274 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:38:40,437 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:38:40,443 - INFO - Loading data for: ['BAP']
+2025-04-02 21:38:40,445 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:38:40,457 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:38:40,460 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:38:40,463 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:38:40,648 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:38:42,720 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:38:42,721 - INFO - Loading data for: ['BAP']
+2025-04-02 21:38:42,724 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:38:42,753 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:38:42,756 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:38:42,758 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:38:43,114 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:40:07,286 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:40:07,291 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:40:09,678 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:40:09,686 - INFO - Loading data for: ['BAP']
+2025-04-02 21:40:09,691 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:40:09,718 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:40:09,725 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:40:09,729 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:40:09,799 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:40:11,845 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:40:11,850 - INFO - Loading data for: ['BAP']
+2025-04-02 21:40:11,853 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:40:11,865 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:40:11,872 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:40:11,874 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:40:11,894 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:40:13,755 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:40:13,761 - INFO - Loading data for: ['BAP']
+2025-04-02 21:40:13,762 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:40:13,777 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:40:13,781 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:40:13,783 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:40:13,824 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:40:16,024 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:40:16,028 - INFO - Loading data for: ['BAP']
+2025-04-02 21:40:16,029 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:40:16,044 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:40:16,047 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:40:16,049 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:40:16,078 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:40:16,450 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:40:16,452 - INFO - Loading data for: ['BAP']
+2025-04-02 21:40:16,453 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:40:16,464 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:40:16,467 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:40:16,469 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:40:16,498 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:40:40,011 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:40:40,012 - INFO - Loading data for: ['BAP']
+2025-04-02 21:40:40,013 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:40:40,020 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:40:40,022 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:40:40,024 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:40:40,045 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:40:42,408 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:40:42,410 - INFO - Loading data for: ['BAP']
+2025-04-02 21:40:42,410 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:40:42,417 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:40:42,419 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:40:42,421 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:40:42,435 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:42:50,455 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:42:50,458 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:42:53,842 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:42:53,848 - INFO - Loading data for: ['BAP']
+2025-04-02 21:42:53,850 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:42:53,862 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:42:53,866 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:42:53,869 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:42:53,927 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:42:55,917 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:42:55,920 - INFO - Loading data for: ['BAP']
+2025-04-02 21:42:55,922 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:42:55,942 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:42:55,950 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:42:55,952 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:42:55,978 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:42:58,293 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:42:58,295 - INFO - Loading data for: ['BAP']
+2025-04-02 21:42:58,296 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:42:58,313 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:42:58,320 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:42:58,322 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:42:58,357 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:43:00,485 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:43:00,488 - INFO - Loading data for: ['BAP']
+2025-04-02 21:43:00,491 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:43:00,504 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:43:00,507 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:43:00,510 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:43:00,536 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:43:00,967 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:43:00,970 - INFO - Loading data for: ['BAP']
+2025-04-02 21:43:00,977 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:43:00,989 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:43:00,992 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:43:00,993 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:43:01,020 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:43:13,023 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:43:13,030 - INFO - Loading data for: ['BAP']
+2025-04-02 21:43:13,032 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:43:13,050 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:43:13,056 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:43:13,061 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:43:13,126 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:43:29,441 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:43:29,445 - INFO - Loading data for: ['BAP']
+2025-04-02 21:43:29,446 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:43:29,472 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:43:29,480 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:43:29,484 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:43:29,550 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:43:30,201 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:43:30,205 - INFO - Loading data for: ['BAP']
+2025-04-02 21:43:30,213 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:43:30,253 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:43:30,256 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:43:30,257 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:43:30,291 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:43:34,973 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:43:34,975 - INFO - Loading data for: ['BAP']
+2025-04-02 21:43:34,976 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:43:34,986 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:43:34,989 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:43:34,991 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:43:35,052 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:43:37,180 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:43:37,185 - INFO - Loading data for: ['BAP']
+2025-04-02 21:43:37,186 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:43:37,198 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:43:37,203 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:43:37,204 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:43:37,277 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:43:38,893 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:43:38,895 - INFO - Loading data for: ['BAP', 'SECI-III']
+2025-04-02 21:43:38,897 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:43:38,920 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:43:38,929 - INFO - Querying: 'SECI-III' for 'SECI-III'
+2025-04-02 21:43:38,936 - INFO - Read 42 rows from 'SECI-III'
+2025-04-02 21:43:38,940 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:43:38,949 - INFO - Combined df shape: (507, 27)
+2025-04-02 21:43:38,990 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:43:41,433 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:43:41,435 - INFO - Loading data for: ['SECI-III']
+2025-04-02 21:43:41,436 - INFO - Querying: 'SECI-III' for 'SECI-III'
+2025-04-02 21:43:41,442 - INFO - Read 42 rows from 'SECI-III'
+2025-04-02 21:43:41,444 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:43:41,446 - INFO - Combined df shape: (42, 20)
+2025-04-02 21:43:41,465 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:44:27,749 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:44:27,751 - INFO - Loading data for: ['SECI-III']
+2025-04-02 21:44:27,752 - INFO - Querying: 'SECI-III' for 'SECI-III'
+2025-04-02 21:44:27,758 - INFO - Read 42 rows from 'SECI-III'
+2025-04-02 21:44:27,760 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:44:27,763 - INFO - Combined df shape: (42, 20)
+2025-04-02 21:44:27,785 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:44:30,619 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:44:30,621 - INFO - Loading data for: ['SECI-III']
+2025-04-02 21:44:30,621 - INFO - Querying: 'SECI-III' for 'SECI-III'
+2025-04-02 21:44:30,628 - INFO - Read 42 rows from 'SECI-III'
+2025-04-02 21:44:30,631 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:44:30,636 - INFO - Combined df shape: (42, 20)
+2025-04-02 21:44:30,658 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:44:32,769 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:44:32,770 - INFO - Loading data for: ['SECI-III']
+2025-04-02 21:44:32,771 - INFO - Querying: 'SECI-III' for 'SECI-III'
+2025-04-02 21:44:32,779 - INFO - Read 42 rows from 'SECI-III'
+2025-04-02 21:44:32,782 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:44:32,783 - INFO - Combined df shape: (42, 20)
+2025-04-02 21:44:32,806 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:44:33,938 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:44:33,944 - INFO - Loading data for: ['SECI-III']
+2025-04-02 21:44:33,946 - INFO - Querying: 'SECI-III' for 'SECI-III'
+2025-04-02 21:44:33,955 - INFO - Read 42 rows from 'SECI-III'
+2025-04-02 21:44:33,958 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:44:33,960 - INFO - Combined df shape: (42, 20)
+2025-04-02 21:44:33,993 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:44:35,334 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:44:35,335 - INFO - Loading data for: ['SECI-III']
+2025-04-02 21:44:35,337 - INFO - Querying: 'SECI-III' for 'SECI-III'
+2025-04-02 21:44:35,356 - INFO - Read 42 rows from 'SECI-III'
+2025-04-02 21:44:35,361 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:44:35,364 - INFO - Combined df shape: (42, 20)
+2025-04-02 21:44:35,399 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:44:37,747 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:44:37,753 - INFO - Loading data for: ['SECI-III']
+2025-04-02 21:44:37,757 - INFO - Querying: 'SECI-III' for 'SECI-III'
+2025-04-02 21:44:37,768 - INFO - Read 42 rows from 'SECI-III'
+2025-04-02 21:44:37,772 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:44:37,774 - INFO - Combined df shape: (42, 20)
+2025-04-02 21:44:37,812 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:44:39,536 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:44:39,548 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:44:41,781 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:44:41,783 - INFO - Loading data for: ['UTT1']
+2025-04-02 21:44:41,785 - INFO - Querying: 'UTT1' for 'UTT1'
+2025-04-02 21:44:41,814 - INFO - Read 288 rows from 'UTT1'
+2025-04-02 21:44:41,823 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:44:41,827 - INFO - Combined df shape: (288, 23)
+2025-04-02 21:44:41,880 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:44:42,677 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:44:42,679 - INFO - Loading data for: ['UTT1', 'BAP']
+2025-04-02 21:44:42,681 - INFO - Querying: 'UTT1' for 'UTT1'
+2025-04-02 21:44:42,693 - INFO - Read 288 rows from 'UTT1'
+2025-04-02 21:44:42,695 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:44:42,708 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:44:42,712 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:44:42,717 - INFO - Combined df shape: (753, 24)
+2025-04-02 21:44:42,765 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:44:44,056 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:44:44,061 - INFO - Loading data for: ['UTT1']
+2025-04-02 21:44:44,064 - INFO - Querying: 'UTT1' for 'UTT1'
+2025-04-02 21:44:44,085 - INFO - Read 288 rows from 'UTT1'
+2025-04-02 21:44:44,091 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:44:44,096 - INFO - Combined df shape: (288, 23)
+2025-04-02 21:44:44,157 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:44:47,093 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:44:47,094 - INFO - Loading data for: ['UTT1']
+2025-04-02 21:44:47,096 - INFO - Querying: 'UTT1' for 'UTT1'
+2025-04-02 21:44:47,107 - INFO - Read 288 rows from 'UTT1'
+2025-04-02 21:44:47,109 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:44:47,112 - INFO - Combined df shape: (288, 23)
+2025-04-02 21:44:47,139 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:44:50,875 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:44:50,879 - INFO - Loading data for: ['UTT1']
+2025-04-02 21:44:50,881 - INFO - Querying: 'UTT1' for 'UTT1'
+2025-04-02 21:44:50,893 - INFO - Read 288 rows from 'UTT1'
+2025-04-02 21:44:50,895 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:44:50,897 - INFO - Combined df shape: (288, 23)
+2025-04-02 21:44:50,929 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:50:24,747 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:50:24,750 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:50:27,373 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:50:27,375 - INFO - Loading data for: ['BAP']
+2025-04-02 21:50:27,377 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:50:27,387 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:50:27,390 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:50:27,391 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:50:27,403 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:50:29,735 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:50:29,739 - INFO - Loading data for: ['BAP']
+2025-04-02 21:50:29,743 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:50:29,759 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:50:29,765 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:50:29,767 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:50:29,813 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:50:30,747 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:50:30,752 - INFO - Loading data for: ['BAP']
+2025-04-02 21:50:30,760 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:50:30,771 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:50:30,775 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:50:30,777 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:50:30,825 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:50:34,274 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:50:34,280 - INFO - Loading data for: ['BAP']
+2025-04-02 21:50:34,282 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:50:34,296 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:50:34,301 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:50:34,303 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:50:34,342 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:50:36,452 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:50:36,453 - INFO - Loading data for: ['BAP']
+2025-04-02 21:50:36,454 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:50:36,464 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:50:36,472 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:50:36,475 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:50:36,519 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:50:49,617 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:50:49,620 - INFO - Loading data for: ['BAP']
+2025-04-02 21:50:49,626 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:50:49,640 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:50:49,643 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:50:49,644 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:50:49,689 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:50:57,485 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:50:57,489 - INFO - Loading data for: ['BAP']
+2025-04-02 21:50:57,492 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:50:57,506 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:50:57,509 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:50:57,511 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:50:57,559 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:50:58,301 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:50:58,303 - INFO - Loading data for: ['BAP']
+2025-04-02 21:50:58,305 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:50:58,318 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:50:58,325 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:50:58,332 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:50:58,483 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:51:00,758 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:51:00,763 - INFO - Loading data for: ['BAP']
+2025-04-02 21:51:00,769 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:51:00,786 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:51:00,790 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:51:00,792 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:51:00,837 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:51:13,500 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:51:13,501 - INFO - Loading data for: ['BAP']
+2025-04-02 21:51:13,502 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:51:13,511 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:51:13,513 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:51:13,516 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:51:13,794 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:51:19,143 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:51:19,145 - INFO - Loading data for: ['BAP']
+2025-04-02 21:51:19,146 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:51:19,162 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:51:19,169 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:51:19,173 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:51:19,366 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:51:21,826 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:51:21,828 - INFO - Loading data for: ['BAP']
+2025-04-02 21:51:21,829 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:51:21,853 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:51:21,860 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:51:21,863 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:51:22,091 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:52:09,084 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:52:09,086 - INFO - Loading data for: ['BAP']
+2025-04-02 21:52:09,088 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:52:09,098 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:52:09,101 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:52:09,103 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:52:09,149 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:54:09,081 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:54:09,086 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:54:13,085 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:54:13,087 - INFO - Loading data for: ['BAP']
+2025-04-02 21:54:13,088 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:54:13,102 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:54:13,106 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:54:13,108 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:54:13,124 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:54:15,364 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:54:15,366 - INFO - Loading data for: ['BAP']
+2025-04-02 21:54:15,367 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:54:15,379 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:54:15,382 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:54:15,384 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:54:15,413 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:54:17,949 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:54:17,955 - INFO - Loading data for: ['BAP']
+2025-04-02 21:54:17,960 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:54:17,972 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:54:17,976 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:54:17,978 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:54:18,004 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:54:20,584 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:54:20,587 - INFO - Loading data for: ['BAP']
+2025-04-02 21:54:20,589 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:54:20,614 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:54:20,624 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:54:20,628 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:54:20,686 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:54:22,923 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:54:22,928 - INFO - Loading data for: ['BAP']
+2025-04-02 21:54:22,929 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:54:22,956 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:54:22,958 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:54:22,961 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:54:23,015 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:55:25,952 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:55:25,957 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:57:56,386 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:57:56,392 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:57:59,695 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:57:59,708 - INFO - Loading data for: ['BAP']
+2025-04-02 21:57:59,709 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:57:59,723 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:57:59,753 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:57:59,755 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:57:59,926 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:58:02,605 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:58:02,607 - INFO - Loading data for: ['BAP']
+2025-04-02 21:58:02,609 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:58:02,620 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:58:02,622 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:58:02,625 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:58:02,817 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:58:07,107 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:58:07,118 - INFO - Loading data for: ['BAP']
+2025-04-02 21:58:07,119 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:58:07,159 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:58:07,165 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:58:07,167 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:58:07,246 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:58:09,262 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:58:09,267 - INFO - Loading data for: ['BAP']
+2025-04-02 21:58:09,268 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:58:09,290 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:58:09,293 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:58:09,295 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:58:09,353 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:58:15,109 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:58:15,116 - INFO - Loading data for: ['BAP']
+2025-04-02 21:58:15,118 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:58:15,128 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:58:15,131 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:58:15,134 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:59:55,158 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:59:55,165 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:59:57,360 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:59:57,369 - INFO - Loading data for: ['BAP']
+2025-04-02 21:59:57,371 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:59:57,383 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:59:57,387 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:59:57,389 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:59:57,401 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 21:59:59,604 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 21:59:59,605 - INFO - Loading data for: ['BAP']
+2025-04-02 21:59:59,610 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 21:59:59,623 - INFO - Read 465 rows from 'BAP'
+2025-04-02 21:59:59,627 - INFO - Concatenating loaded dataframes.
+2025-04-02 21:59:59,631 - INFO - Combined df shape: (465, 19)
+2025-04-02 21:59:59,693 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 22:00:02,412 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 22:00:02,415 - INFO - Loading data for: ['BAP']
+2025-04-02 22:00:02,416 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 22:00:02,433 - INFO - Read 465 rows from 'BAP'
+2025-04-02 22:00:02,437 - INFO - Concatenating loaded dataframes.
+2025-04-02 22:00:02,439 - INFO - Combined df shape: (465, 19)
+2025-04-02 22:00:02,601 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 22:00:11,454 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 22:00:11,458 - INFO - Loading data for: ['BAP']
+2025-04-02 22:00:11,463 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 22:00:11,475 - INFO - Read 465 rows from 'BAP'
+2025-04-02 22:00:11,478 - INFO - Concatenating loaded dataframes.
+2025-04-02 22:00:11,480 - INFO - Combined df shape: (465, 19)
+2025-04-02 22:00:11,589 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 22:00:14,081 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 22:00:14,084 - INFO - Loading data for: ['BAP']
+2025-04-02 22:00:14,085 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 22:00:14,098 - INFO - Read 465 rows from 'BAP'
+2025-04-02 22:00:14,101 - INFO - Concatenating loaded dataframes.
+2025-04-02 22:00:14,104 - INFO - Combined df shape: (465, 19)
+2025-04-02 22:00:14,209 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 22:00:47,289 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 22:00:47,296 - INFO - Loading data for: ['BAP']
+2025-04-02 22:00:47,297 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 22:00:47,317 - INFO - Read 465 rows from 'BAP'
+2025-04-02 22:00:47,320 - INFO - Concatenating loaded dataframes.
+2025-04-02 22:00:47,323 - INFO - Combined df shape: (465, 19)
+2025-04-02 22:00:47,580 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 22:02:49,749 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 22:02:49,752 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 22:02:51,993 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 22:02:51,995 - INFO - Loading data for: ['BAP']
+2025-04-02 22:02:51,997 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 22:02:52,014 - INFO - Read 465 rows from 'BAP'
+2025-04-02 22:02:52,017 - INFO - Concatenating loaded dataframes.
+2025-04-02 22:02:52,019 - INFO - Combined df shape: (465, 19)
+2025-04-02 22:02:52,053 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 22:02:53,780 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 22:02:53,784 - INFO - Loading data for: ['BAP']
+2025-04-02 22:02:53,788 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 22:02:53,807 - INFO - Read 465 rows from 'BAP'
+2025-04-02 22:02:53,812 - INFO - Concatenating loaded dataframes.
+2025-04-02 22:02:53,816 - INFO - Combined df shape: (465, 19)
+2025-04-02 22:02:53,892 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 22:02:54,419 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-02 22:02:54,421 - INFO - Loading data for: ['BAP']
+2025-04-02 22:02:54,426 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 22:02:54,439 - INFO - Read 465 rows from 'BAP'
+2025-04-02 22:02:54,442 - INFO - Concatenating loaded dataframes.
+2025-04-02 22:02:54,444 - INFO - Combined df shape: (465, 19)
+2025-04-02 22:02:54,546 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 22:04:33,452 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-02 22:05:01,963 - INFO - Loading data for: ['BAP']
+2025-04-02 22:05:01,968 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-02 22:05:02,020 - INFO - Read 465 rows from 'BAP'
+2025-04-02 22:05:02,038 - INFO - Concatenating loaded dataframes.
+2025-04-02 22:05:02,047 - INFO - Combined df shape: (465, 19)
+2025-04-02 22:05:02,071 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-02 22:05:02,084 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-02 22:05:02,188 - INFO - --- Generating display for SPV: Medha ---
+2025-04-02 22:05:02,253 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-02 22:05:02,324 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-02 22:05:02,385 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-02 22:05:02,447 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 09:47:57,817 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 09:48:03,135 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 09:51:51,650 - INFO - Found plants: ['BAP', 'SECI-III', 'SEMLI', 'UTT1', 'UTT2']
+2025-04-03 09:51:51,673 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 09:53:04,096 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 09:59:25,249 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 09:59:27,414 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:03:21,491 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:16:58,952 - INFO - Loading data for: ['BAP']
+2025-04-03 10:16:58,958 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-03 10:16:58,975 - INFO - Read 465 rows from 'BAP'
+2025-04-03 10:16:58,985 - INFO - Concatenating loaded dataframes.
+2025-04-03 10:16:58,989 - INFO - Combined df shape: (465, 19)
+2025-04-03 10:16:59,011 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-03 10:16:59,017 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-03 10:16:59,495 - INFO - --- Generating display for SPV: Medha ---
+2025-04-03 10:16:59,564 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-03 10:16:59,668 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-03 10:16:59,783 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 10:16:59,883 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:17:03,015 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-03 10:17:03,025 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 10:17:03,107 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:17:07,866 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-03 10:17:07,871 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 10:17:07,928 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:17:28,738 - INFO - Displaying sections for SPVs: ['Ranji']
+2025-04-03 10:17:28,744 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 10:17:28,797 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:17:45,437 - INFO - Displaying sections for SPVs: ['Ranji', 'Gurgaon']
+2025-04-03 10:17:45,441 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 10:17:45,497 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-03 10:17:45,544 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:17:46,028 - INFO - Displaying sections for SPVs: ['Ranji', 'Gurgaon', 'Medha']
+2025-04-03 10:17:46,034 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 10:17:46,086 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-03 10:17:46,144 - INFO - --- Generating display for SPV: Medha ---
+2025-04-03 10:17:46,226 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:33:52,108 - INFO - Displaying sections for SPVs: ['Ranji', 'Gurgaon', 'Medha']
+2025-04-03 10:33:52,114 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 10:33:52,175 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-03 10:33:52,236 - INFO - --- Generating display for SPV: Medha ---
+2025-04-03 10:33:52,285 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:56:47,792 - INFO - Displaying sections for SPVs: ['Ranji', 'Gurgaon', 'Medha']
+2025-04-03 10:56:47,800 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 10:56:47,918 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-03 10:56:48,011 - INFO - --- Generating display for SPV: Medha ---
+2025-04-03 10:56:48,110 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:57:31,558 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:57:42,103 - INFO - Displaying sections for SPVs: ['Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-03 10:57:42,109 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-03 10:57:42,187 - INFO - --- Generating display for SPV: Medha ---
+2025-04-03 10:57:42,237 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-03 10:57:42,292 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-03 10:57:42,385 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 10:57:42,451 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:58:45,686 - INFO - Loading data for: ['BAP', 'SECI-III']
+2025-04-03 10:58:45,843 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-03 10:58:45,881 - INFO - Read 465 rows from 'BAP'
+2025-04-03 10:58:45,921 - INFO - Querying: 'SECI-III' for 'SECI-III'
+2025-04-03 10:58:45,936 - INFO - Read 42 rows from 'SECI-III'
+2025-04-03 10:58:45,940 - INFO - Concatenating loaded dataframes.
+2025-04-03 10:58:45,962 - INFO - Combined df shape: (507, 27)
+2025-04-03 10:58:45,994 - INFO - Displaying sections for SPVs: ['ERCPL', 'Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-03 10:58:46,006 - INFO - --- Generating display for SPV: ERCPL ---
+2025-04-03 10:58:46,090 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-03 10:58:46,260 - INFO - --- Generating display for SPV: Medha ---
+2025-04-03 10:58:46,408 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-03 10:58:46,601 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-03 10:58:46,737 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 10:58:46,816 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:59:08,421 - INFO - Displaying sections for SPVs: ['ERCPL']
+2025-04-03 10:59:08,428 - INFO - --- Generating display for SPV: ERCPL ---
+2025-04-03 10:59:08,477 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 10:59:31,178 - INFO - Displaying sections for SPVs: ['ERCPL', 'Gurgaon', 'Medha', 'Mumbai', 'Rajdhani', 'Ranji']
+2025-04-03 10:59:31,185 - INFO - --- Generating display for SPV: ERCPL ---
+2025-04-03 10:59:31,237 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-03 10:59:31,286 - INFO - --- Generating display for SPV: Medha ---
+2025-04-03 10:59:31,343 - INFO - --- Generating display for SPV: Mumbai ---
+2025-04-03 10:59:31,396 - INFO - --- Generating display for SPV: Rajdhani ---
+2025-04-03 10:59:31,446 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 10:59:31,491 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 11:18:05,221 - INFO - Loading data for: ['BAP']
+2025-04-03 11:18:05,222 - INFO - Querying: 'BAP' for 'BAP'
+2025-04-03 11:18:05,237 - INFO - Read 465 rows from 'BAP'
+2025-04-03 11:18:05,241 - INFO - Concatenating loaded dataframes.
+2025-04-03 11:18:05,245 - INFO - Combined df shape: (465, 19)
+2025-04-03 11:18:05,263 - INFO - Displaying sections for SPVs: ['Ranji', 'Gurgaon', 'Medha']
+2025-04-03 11:18:05,269 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 11:18:05,344 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-03 11:18:05,410 - INFO - --- Generating display for SPV: Medha ---
+2025-04-03 11:18:05,495 - INFO - --- Streamlit App Execution Cycle End ---
+2025-04-03 11:22:26,818 - INFO - Displaying sections for SPVs: ['Ranji', 'Gurgaon', 'Medha']
+2025-04-03 11:22:26,824 - INFO - --- Generating display for SPV: Ranji ---
+2025-04-03 11:22:26,902 - INFO - --- Generating display for SPV: Gurgaon ---
+2025-04-03 11:22:26,984 - INFO - --- Generating display for SPV: Medha ---
+2025-04-03 11:22:27,066 - INFO - --- Streamlit App Execution Cycle End ---
